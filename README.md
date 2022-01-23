@@ -1,5 +1,5 @@
-# f
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+# ReadMe File Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   
     * [Installation](#installation)
@@ -10,28 +10,28 @@
   
   
   ## Description
-  f
+  This generator creates a personalized ReadMe file for any repo.
   
   ## Installation
-  f
+  NPM install
   
   ## Usage
-  f
+  The REadMe can be adjusted to fit the unique criteria for any repo.
   
   ## Contributions
   undefined
   
   ## Tests
-  f
+  NPM run test
   
   ## Features
-  f
+  This ReadMe should be used for all future repos.
   
   
   
   
   ## Questions
-  If you have any questions you can contact me at f .
+  If you have any questions you can contact me at rcschornick@gmail.com .
   ## Git Hub Link
-  Click here to view my repo library f.
+  Click here to view my repo library http://github.com/RCSchornick.
   
