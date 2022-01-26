@@ -41,3 +41,4 @@
   
   
   Link to deployed application : https://rcschornick.github.io/Read-Me-File-Generator/
+  Link to Screencastify video : https://watch.screencastify.com/v/Ivact0b2kxGzexXlmQrf
